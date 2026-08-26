@@ -397,15 +397,21 @@ Built from scratch, including every piece:
 
 ## 💡 Interview-Ready Knowledge
 
-I can discuss these cold in any FAANG system design or ML interview:
+I can discuss these cold in any FAANG SWE interview:
 
-- ✅ Why HNSW beats KD-Trees at scale — pruning failure + curse of dimensionality, proven with code
-- ✅ The HNSW probabilistic layer formula `l = ⌊-ln(U) · mL⌋` and its skip-list analogy
-- ✅ When to use Cosine vs Euclidean vs Manhattan distance — and the mathematical reasoning
-- ✅ End-to-end RAG: chunking strategy → embedding → vector retrieval → LLM synthesis
-- ✅ Beam search mechanics at Layer 0: the `ef` parameter trading recall% for latency
-- ✅ Collaborative filtering vs content-based recommendation: trade-offs and cold-start problem
-- ✅ How sliding-window overlap prevents semantic context loss at chunk boundaries
+
+🚀 Full-Stack & System Design
+✅ Production-grade Full-Stack Architecture — API design → databases → caching → queues → deployment
+✅ Agentic AI Systems — tool calling → memory → planning → RAG → orchestration → evaluation
+✅ Production RAG — chunking → embeddings → vector search → reranking → context construction → LLM synthesis
+✅ Vector Search Internals — HNSW layers → probabilistic promotion → graph traversal → ef vs recall/latency
+✅ Database & Backend Engineering — indexing → B-Trees → query optimization → Redis → SQL/NoSQL trade-offs
+✅ Scalable System Design — load balancing → horizontal scaling → sharding → asynchronous processing → fault tolerance
+✅ Security & API Architecture — JWT → sessions → OAuth → RBAC → refresh tokens → secure API design
+🧠 DSA & Algorithms
+✅ Dynamic Programming — state definition → recurrence → memoization → tabulation → space optimization
+✅ Graphs & Graph Algorithms — BFS/DFS → shortest paths → MST → topological sorting → DSU
+✅ Trees & Advanced Data Structures — BSTs → heaps → tries → segment trees → Fenwick trees
 
 ---
 
