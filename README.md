@@ -17,9 +17,9 @@
 ### 🌐 Find Me Online
 
 [![GitHub](https://img.shields.io/badge/GitHub-shauryashrma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryashrma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryasharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-sharma-b65788229/)
 [![Portfolio](https://img.shields.io/badge/Live%20Demo-Expense%20Tracker-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-tracker-one-theta-92.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryasharmaofficial12@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shauryashrma&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
