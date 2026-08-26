@@ -400,19 +400,45 @@ Built from scratch, including every piece:
 I can discuss these cold in any FAANG SWE interview:
 
 
-🚀 Full-Stack & System Design
-✅ Production-grade Full-Stack Architecture — API design → databases → caching → queues → deployment
-✅ Agentic AI Systems — tool calling → memory → planning → RAG → orchestration → evaluation
-✅ Production RAG — chunking → embeddings → vector search → reranking → context construction → LLM synthesis
-✅ Vector Search Internals — HNSW layers → probabilistic promotion → graph traversal → ef vs recall/latency
-✅ Database & Backend Engineering — indexing → B-Trees → query optimization → Redis → SQL/NoSQL trade-offs
-✅ Scalable System Design — load balancing → horizontal scaling → sharding → asynchronous processing → fault tolerance
-✅ Security & API Architecture — JWT → sessions → OAuth → RBAC → refresh tokens → secure API design
-🧠 DSA & Algorithms
-✅ Dynamic Programming — state definition → recurrence → memoization → tabulation → space optimization
-✅ Graphs & Graph Algorithms — BFS/DFS → shortest paths → MST → topological sorting → DSU
-✅ Trees & Advanced Data Structures — BSTs → heaps → tries → segment trees → Fenwick trees
+### 🚀 Full-Stack & System Design
 
+- ✅ **Production-grade Full-Stack Architecture**  
+  API design → databases → caching → queues → deployment
+
+- ✅ **Agentic AI Systems**  
+  Tool calling → memory → planning → RAG → orchestration → evaluation
+
+- ✅ **Production RAG**  
+  Chunking → embeddings → vector search → reranking → context construction → LLM synthesis
+
+- ✅ **Vector Search Internals**  
+  HNSW layers → probabilistic promotion → graph traversal → `ef` vs recall/latency
+
+- ✅ **Database & Backend Engineering**  
+  Indexing → B-Trees → query optimization → Redis → SQL/NoSQL trade-offs
+
+- ✅ **Scalable System Design**  
+  Load balancing → horizontal scaling → sharding → asynchronous processing → fault tolerance
+
+- ✅ **Security & API Architecture**  
+  JWT → sessions → OAuth → RBAC → refresh tokens → secure API design
+
+
+### 🧠 DSA & Algorithms
+
+- ✅ **Dynamic Programming**  
+  State definition → recurrence → memoization → tabulation → space optimization
+
+- ✅ **Graphs & Graph Algorithms**  
+  BFS/DFS → shortest paths → MST → topological sorting → DSU
+
+- ✅ **Trees & Advanced Data Structures**  
+  BSTs → heaps → tries → segment trees → Fenwick trees
+
+
+### 🎯 Interview Focus
+
+**Full-Stack Engineering + Agentic AI + System Design + DSA + CS Fundamentals**
 ---
 
 <div align="center">
