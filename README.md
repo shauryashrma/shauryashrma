@@ -287,13 +287,7 @@ int randLevel() {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shauryashrma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryashrma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=12"/>
-
-</div>
 
 <div align="center">
 
