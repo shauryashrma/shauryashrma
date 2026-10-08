@@ -38,7 +38,7 @@ public:
     const std::string focus      = "High-performance systems at the frontier of AI & infrastructure";
 
     std::vector<std::string> currently_doing = {
-        "Building Vector Databases from scratch in C++17",
+        "Building Vector Databases from scratch Instructed by Andrej Karpathy",
         "Creating end-to-end RAG pipelines with local LLMs",
         "Crafting full-stack web apps with modern JavaScript",
         "Exploring ML & deep learning via Jupyter + Python"
@@ -441,31 +441,17 @@ I can discuss these cold in any FAANG SWE interview:
 **Full-Stack Engineering + Agentic AI + System Design + DSA + CS Fundamentals**
 ---
 
-<div align="center">
 
-### ⚡ Activity Graph
-
-[![Shaurya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shauryashrma&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true)](https://github.com/shauryashrma)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shauryashrma&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/shauryashrma)
-
-</div>
-
----
-
-<div align="center">
-
-**💬 Open to collaborations on AI systems, C++ infrastructure, and full-stack web projects.**
+**💬 Open to collaborations on AI systems, and full-stack web projects.**
 
 *"The best way to understand a system is to build it from scratch."*
+
+*"I don’t think a regular person appreciates how insane it is that computers work"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
